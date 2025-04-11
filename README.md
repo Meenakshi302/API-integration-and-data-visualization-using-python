@@ -7,7 +7,7 @@
 - Mentor: Neela Santosh
 
 ## Project Description
-This project is a real-world demonstration of how to use Python to fetch data from a **public API** and present it using **data visualization tools**. Specifically, we use the **OpenWeatherMap API** to gather real-time and/or forecasted weather data for a user-specified city and visualize this data using **Matplotlib** and **Seaborn**.
+This project is a real-world demonstration of how to use Python to fetch data from a **public API** and present it using **data visualization tools**. 
 The core idea is to transform raw API data into **interactive, insightful, and visually appealing graphs** that help users better understand current weather conditions and upcoming trends. This project is ideal for students, developers, or analysts looking to improve their API handling, data processing, and visualization skills in Python.
 
 # Objectives
