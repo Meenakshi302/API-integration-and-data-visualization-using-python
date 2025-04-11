@@ -23,9 +23,9 @@ The core idea is to transform raw API data into **interactive, insightful, and v
 - Clean and Readable Code
   
 # Technologies Used
-Python : Core programming language 
-OpenWeatherMap: Source of real-time weather data 
-Requests:Sending HTTP requests to the API
-Matplotlib: Creating basic and advanced plots 
-Seaborn: Enhancing visual styling of charts 
-JSON: Parsing structured API data 
+- Python : Core programming language 
+- OpenWeatherMap: Source of real-time weather data 
+- Requests:Sending HTTP requests to the API
+- Matplotlib: Creating basic and advanced plots 
+- Seaborn: Enhancing visual styling of charts 
+- JSON: Parsing structured API data 
