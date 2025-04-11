@@ -1,10 +1,10 @@
 # API-integration-and-data-visualization-using-python
-Company: Codtech IT Solution
-# Name: Meenakshi Vishwakarma
-# InternId: CT04DA374
-# Domain: Python Programming 
-Duration: 4 weeks
-Mentor: Neela Santosh
+- Company: Codtech IT Solution
+- Name: Meenakshi Vishwakarma
+- InternId: CT04DA374
+- Domain: Python Programming 
+- Duration: 4 weeks
+- Mentor: Neela Santosh
 
 ## Project Description
 This project is a real-world demonstration of how to use Python to fetch data from a **public API** and present it using **data visualization tools**. Specifically, we use the **OpenWeatherMap API** to gather real-time and/or forecasted weather data for a user-specified city and visualize this data using **Matplotlib** and **Seaborn**.
