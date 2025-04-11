@@ -1,8 +1,8 @@
 # API-integration-and-data-visualization-using-python
 Company: Codtech IT Solution
-Name: Meenakshi Vishwakarma
-InternId: CT04DA374
-Domain: Python Programming 
+# Name: Meenakshi Vishwakarma
+# InternId: CT04DA374
+# Domain: Python Programming 
 Duration: 4 weeks
 Mentor: Neela Santosh
 
