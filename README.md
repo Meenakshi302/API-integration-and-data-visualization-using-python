@@ -11,7 +11,7 @@ This project is a real-world demonstration of how to use Python to fetch data fr
 The core idea is to transform raw API data into **interactive, insightful, and visually appealing graphs** that help users better understand current weather conditions and upcoming trends. This project is ideal for students, developers, or analysts looking to improve their API handling, data processing, and visualization skills in Python.
 
 # Objectives
-- Learn how to interact with a RESTful API using Python.
+- Learn how to interact with an API using Python.
 - Process and extract useful information from JSON responses.
 - Visualize numerical and categorical weather data.
 - Create a user-friendly dashboard that presents weather data in an easy-to-understand format.
