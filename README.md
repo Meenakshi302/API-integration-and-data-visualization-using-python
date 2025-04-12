@@ -28,4 +28,7 @@ The core idea is to transform raw API data into **interactive, insightful, and v
 - Requests:Sending HTTP requests to the API
 - Matplotlib: Creating basic and advanced plots 
 - Seaborn: Enhancing visual styling of charts 
-- JSON: Parsing structured API data 
+- JSON: Parsing structured API data
+
+# Output
+![Image](https://github.com/user-attachments/assets/af4c2d5f-cad6-40fe-b1b8-e4a10e68966a)
