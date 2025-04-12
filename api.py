@@ -4,14 +4,14 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import datetime
 
-# Your free OpenWeatherMap API key
-api_key = "e59ddaa68f39e45788e0b4d938d3778f"
+# Your API key (eg. weather, finance)
+api_key = "your_api_key" # put here your unique api key
 
 # Choose your city
 city = "Delhi"
 
-# OpenWeatherMap 5-day forecast API endpoint (free-tier friendly)
-url = f"http://api.openweathermap.org/data/2.5/forecast?q=delhi&appid=e59ddaa68f39e45788e0b4d938d3778f&units=metric"
+#  API endpoint 
+url = f"http://api.openweathermap.org/data/2.5/forecast?q=delhi&appid=your_api_keyf&units=metric"
 
 # Send GET request to the API
 response = requests.get(url)
